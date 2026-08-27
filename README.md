@@ -8,41 +8,34 @@ I enjoy learning new technologies, working on projects with teams, and turning i
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
+**Languages:**
 
-* Python
-* Java
-* C++
-* R
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 📊 Data & Analysis
+**Data Science & Analysis:**
 
-* Data Analysis
-* Data Visualization
-* Clustering
-* Association Rule Mining
-* Decision Trees
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🧠 Computer Science
+**Tools & Development:**
 
-* Object-Oriented Programming (OOP)
-* Data Structures
-* Algorithms
-* Depth-First Search (DFS)
-* File Handling
-* JSON
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🎨 Tools & Libraries
+**GUI Development:**
 
-* Tkinter
-* CustomTkinter
-* R Shiny
-* Pandas
-* Matplotlib
-* ggplot2
-* Git & GitHub
+`Tkinter` · `CustomTkinter`
+
+**Core Concepts:**
+
+`Object-Oriented Programming` · `Data Structures` · `Algorithms` · `DFS` · `Data Analysis` · `File Handling`
 
 ---
 

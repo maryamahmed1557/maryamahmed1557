@@ -1,41 +1,48 @@
-# Hi there, I'm Maryam Ahmed 👋
+# Hi 👋, I'm Maryam Ahmed
 
-🎓 **Computer & Data Science Student** at Alexandria University
-💡 Passionate about **Programming**, **Data Analysis**, **Data Structures**, and **Problem Solving**.
-🚀 Interested in building practical projects and continuously improving my technical skills.
+### 🎓 Computer & Data Science Student
 
----
+I'm a Computer & Data Science student passionate about **programming, data analysis, problem-solving, and building practical projects**.
 
-### 🚀 About Me
-
-* 🔭 **Current Focus:** Data Structures & Algorithms, Python Development, Data Analysis, and Software Development.
-* 🎓 **Learning Journey:** Building practical projects using Python, Java, C++, and R while strengthening my programming and problem-solving skills.
-* 💻 **Projects:** Developed projects involving GUI applications, data analysis, algorithms, and object-oriented programming.
-* 🤝 **Teamwork:** Enjoy working on collaborative projects, sharing ideas, solving problems together, and learning from others.
-* 🌱 **Currently Learning:** Advanced Data Structures, Algorithms, Data Analysis, and improving my software development skills.
+I enjoy learning new technologies, working on projects with teams, and turning ideas into functional applications.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Skills & Technologies
 
-**Languages:**
+### 💻 Programming Languages
 
+* Python
+* Java
+* C++
+* R
 
-\
+### 📊 Data & Analysis
 
-**Data Science & Analysis:**
+* Data Analysis
+* Data Visualization
+* Clustering
+* Association Rule Mining
+* Decision Trees
 
-\
+### 🧠 Computer Science
 
-**Tools & Development:**
+* Object-Oriented Programming (OOP)
+* Data Structures
+* Algorithms
+* Depth-First Search (DFS)
+* File Handling
+* JSON
 
-\
+### 🎨 Tools & Libraries
 
-**GUI Development:**
-`Tkinter` · `CustomTkinter`
-
-**Core Concepts:**
-`Object-Oriented Programming` · `Data Structures` · `Algorithms` · `DFS` · `Data Analysis` · `File Handling`
+* Tkinter
+* CustomTkinter
+* R Shiny
+* Pandas
+* Matplotlib
+* ggplot2
+* Git & GitHub
 
 ---
 

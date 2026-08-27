@@ -8,12 +8,10 @@ I'm a Computer & Data Science student interested in programming, data analysis, 
 
 * Python
 * Java
-* C++
 * R
 * Data Analysis
 * Object-Oriented Programming
 * Data Structures & Algorithms
-* Tkinter & CustomTkinter
 * Git & GitHub
 
 ## 🚀 Projects

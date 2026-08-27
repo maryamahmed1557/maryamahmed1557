@@ -71,7 +71,7 @@ I enjoy learning new technologies, working on projects with teams, and turning i
 ## 📫 Let's Connect
 
 * 💻 [GitHub](https://github.com/maryamahmed1557)
-* 💼 LinkedIn(https://www.linkedin.com/in/maryam-ahmed-331a70412/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/maryam-ahmed-331a70412/)
 
 ---
 

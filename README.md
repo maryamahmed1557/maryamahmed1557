@@ -1,48 +1,41 @@
-# Hi 👋, I'm Maryam Ahmed
+# Hi there, I'm Maryam Ahmed 👋
 
-### 🎓 Computer & Data Science Student
-
-I'm a Computer & Data Science student passionate about **programming, data analysis, problem-solving, and building practical projects**.
-
-I enjoy learning new technologies, working on projects with teams, and turning ideas into functional applications.
+🎓 **Computer & Data Science Student** at Alexandria University
+💡 Passionate about **Programming**, **Data Analysis**, **Data Structures**, and **Problem Solving**.
+🚀 Interested in building practical projects and continuously improving my technical skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🚀 About Me
 
-### 💻 Programming Languages
+* 🔭 **Current Focus:** Data Structures & Algorithms, Python Development, Data Analysis, and Software Development.
+* 🎓 **Learning Journey:** Building practical projects using Python, Java, C++, and R while strengthening my programming and problem-solving skills.
+* 💻 **Projects:** Developed projects involving GUI applications, data analysis, algorithms, and object-oriented programming.
+* 🤝 **Teamwork:** Enjoy working on collaborative projects, sharing ideas, solving problems together, and learning from others.
+* 🌱 **Currently Learning:** Advanced Data Structures, Algorithms, Data Analysis, and improving my software development skills.
 
-* Python
-* Java
-* C++
-* R
+---
 
-### 📊 Data & Analysis
+### 🛠️ Tech Stack & Skills
 
-* Data Analysis
-* Data Visualization
-* Clustering
-* Association Rule Mining
-* Decision Trees
+**Languages:**
 
-### 🧠 Computer Science
 
-* Object-Oriented Programming (OOP)
-* Data Structures
-* Algorithms
-* Depth-First Search (DFS)
-* File Handling
-* JSON
+\
 
-### 🎨 Tools & Libraries
+**Data Science & Analysis:**
 
-* Tkinter
-* CustomTkinter
-* R Shiny
-* Pandas
-* Matplotlib
-* ggplot2
-* Git & GitHub
+\
+
+**Tools & Development:**
+
+\
+
+**GUI Development:**
+`Tkinter` · `CustomTkinter`
+
+**Core Concepts:**
+`Object-Oriented Programming` · `Data Structures` · `Algorithms` · `DFS` · `Data Analysis` · `File Handling`
 
 ---
 
